@@ -67,7 +67,7 @@ body {
 
 h2 {
     text-align: center;
-    color: #004d61;
+    color: #080330;
 }
 
 .intro {
@@ -98,13 +98,13 @@ h2 {
 }
 
 .tarjeta h3 {
-    color: #00b4d8;
+    color: #81A688;
     margin-top: 0;
 }
 
 /* PIE */
 .pie {
-    background-color: #004d61;
+    background-color: #FF0014;
     color: white;
     text-align: center;
     padding: 15px;
@@ -116,4 +116,5 @@ h2 {
     .tarjeta {
         width: 90%;
     }
+
 }
